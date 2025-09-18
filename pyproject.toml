@@ -1,0 +1,19 @@
+[project]
+name = "mllm-playground"
+version = "1.0.0"
+description = "mLLM playground for interp, learning, architecture, etc."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "accelerate>=1.10.1",
+    "datasets>=4.1.1",
+    "evaluate>=0.4.6",
+    "ipykernel>=6.30.1",
+    "matplotlib>=3.10.6",
+    "pandas>=2.3.2",
+    "pillow>=11.3.0",
+    "qwen-vl-utils>=0.0.11",
+    "seaborn>=0.13.2",
+    "torchvision>=0.23.0",
+    "transformers>=4.56.1",
+]
