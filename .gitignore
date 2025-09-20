@@ -11,3 +11,4 @@
 .env.test
 .env.production
 misc/
+files/vizwiz/
